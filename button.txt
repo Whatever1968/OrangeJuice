@@ -1,0 +1,61 @@
+		<div class="buttons">	  
+		  <a style = "inline-block" class="btn1 btn-primary btn-lg" href="http://builtbyrod.com/" role="button">GET A QUOTE</a>
+		  <a style = "inline-block" class="btn2 btn-primary btn-lg" href="http://www.builtbyrod.net/" role="button">VIEW CASE STUDIES</a><span class = "blue">
+		</div>
+	</div>  
+
+
+<a href="#" class="btn btn-primary btn-lg active" role="button" aria-pressed="true">Get a Quote</a>
+<a href="http://www.builtbyrod.com/" class="btn btn-secondary btn-lg active" role="button" aria-pressed="true">Link</a>
+
+
+<a href="#" class="btn btn-primary btn-lg active" role="button" aria-pressed="true">Get a Quote</a>
+
+
+<a href="https://www.linkedin.com/in/rod-trevino-b6901355" class="btn btn-primary btn-lg active" role="button" aria-pressed="true">Get a Quote</a>
+
+
+		<div class="buttons">	  
+		  <a style = "inline-block" class="btn1 btn-primary btn-lg" href="http://builtbyrod.com/" role="button">GET A QUOTE</a>
+		  <a style = "inline-block" class="btn2 btn-primary btn-lg" href="http://www.builtbyrod.net/" role="button">VIEW CASE STUDIES</a><span class = "blue">
+		</div>
+	</div>  
+<button type="button" class="btn btn-secondary btn-lg">Case Studies</button>
+<button type="button" class="btn btn-secondary btn-lg">Case Studies</button>
+<button type="button" class="btn btn-secondary btn-lg">Case Studies</button>
+<button type="button" class="btn btn-secondary btn-lg">Case Studies</button>
+<button type="button" class="btn btn-secondary btn-lg">Case Studies</button>
+
+
+
+<button type="button" class="btn btn-secondary btn-lg">Case Studies</button>
+
+<a href="#" class="btn btn-primary btn-lg active" role="button" aria-pressed="true">Get a Quote</a>
+<a href="http://www.builtbyrod.com/" class="btn btn-secondary btn-lg active" role="button" aria-pressed="true">Case Studies</a>
+
+
+<a href="#" class="btn btn-primary btn-lg active" role="button" aria-pressed="true">Get a Quote</a>
+
+
+<a href="https://www.linkedin.com/in/rod-trevino-b6901355" class="btn btn-primary btn-lg active" role="button" aria-pressed="true">Get a Quote</a>
+
+button.btn.btn-primary.btn-lg{
+    position: relative;
+    left: 15%;
+    background: orange;
+    text-decoration:none;
+    padding-right: 3%;
+    padding-left: 3%;
+    margin-right: 1%;
+}
+button.btn.btn-secondary.btn-lg {
+    position: relative;
+    left: 15%;
+    background: #00C3CC;
+    text-decoration:none;
+    padding-right: 3%;
+    padding-left: 3%;
+    margin-right: 1%;
+    color:white;
+    border-color:black;
+}
